@@ -1,0 +1,32 @@
+.details-container {
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  align-items: center;
+  text-align: center;
+  background-image: url('https://i.ibb.co/DwcHRm4/photo-1533460004989-cef01064af7e.jpg');
+  background-size: cover;
+}
+.head-1 {
+  text-align: center;
+  color: white;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-width: 2px;
+  width: 300px;
+  padding: 10px;
+  border-color: white;
+  border-radius: 10px;
+}
+.row-card {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.label-1 {
+  font-weight: 600;
+}
